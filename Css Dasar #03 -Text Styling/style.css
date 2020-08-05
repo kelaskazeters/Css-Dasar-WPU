@@ -1,0 +1,16 @@
+/* Komentar di css */
+
+h1 {
+	color: rgb(143, 242, 121);
+	font-size: 150px;
+	text-transform: capitalize;
+}
+p {
+	text-indent: 100px;
+	text-transform: capitalize;
+	word-spacing: 10px;
+}
+
+a {
+	text-decoration: none;
+}

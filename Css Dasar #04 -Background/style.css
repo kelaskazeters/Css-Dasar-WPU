@@ -1,0 +1,11 @@
+body {
+	background: white url(Logo_Kazeters.jpg) no-repeat center;
+	
+	/*
+	background-color: white;
+	background-image: url(Logo_Kazeters.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	*/
+
+}
